@@ -15,8 +15,6 @@ namespace randomSum
             int numberForSum = 0;
             int firstMultiple = 3;
             int secondMultitipe = 5;
-            int receivedFirstNumber;
-            int receivedSecondNumber;
 
             randomNumber = random.Next(0, 100);
             Console.WriteLine($"Число повторений: {randomNumber}");
