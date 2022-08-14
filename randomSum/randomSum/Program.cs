@@ -14,21 +14,24 @@ namespace randomSum
             int randomNumber;
             int numberForSum = 0;
             int numberOfRepeat = 10;
-            int multiple = 3;
-            int receivedNumber;
+            int firstMultiple = 3;
+            int secondMultitipe = 5;
+            int receivedFirstNumber;
+            int receivedSecondNumber;
 
             for (int i = 0; i < numberOfRepeat; i++)
             {
                 randomNumber = rand.Next(1, 100);
-                receivedNumber = randomNumber % multiple;
+                receivedFirstNumber = randomNumber % firstMultiple;
+                receivedSecondNumber = randomNumber % secondMultitipe;
 
-                if (receivedNumber  == 0)
+                if (receivedFirstNumber == 0 || receivedSecondNumber == 0)
                 {
                     numberForSum += randomNumber;
                 }
                 Console.WriteLine($"Случайное число: {randomNumber}");
+                Console.WriteLine($"Сумма чисел кратных 3 или 5: {numberForSum}");
             }
-            Console.WriteLine(numberForSum);
             Console.ReadKey();
         }
     }

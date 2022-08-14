@@ -6,3 +6,11 @@ D:\Visual Studio\Project\randomSum\randomSum\obj\Debug\randomSum.csproj.Suggeste
 D:\Visual Studio\Project\randomSum\randomSum\obj\Debug\randomSum.csproj.CoreCompileInputs.cache
 D:\Visual Studio\Project\randomSum\randomSum\obj\Debug\randomSum.exe
 D:\Visual Studio\Project\randomSum\randomSum\obj\Debug\randomSum.pdb
+D:\Git Hub\randomSum\randomSum\randomSum\bin\Debug\randomSum.exe.config
+D:\Git Hub\randomSum\randomSum\randomSum\bin\Debug\randomSum.exe
+D:\Git Hub\randomSum\randomSum\randomSum\bin\Debug\randomSum.pdb
+D:\Git Hub\randomSum\randomSum\randomSum\obj\Debug\randomSum.csproj.AssemblyReference.cache
+D:\Git Hub\randomSum\randomSum\randomSum\obj\Debug\randomSum.csproj.SuggestedBindingRedirects.cache
+D:\Git Hub\randomSum\randomSum\randomSum\obj\Debug\randomSum.csproj.CoreCompileInputs.cache
+D:\Git Hub\randomSum\randomSum\randomSum\obj\Debug\randomSum.exe
+D:\Git Hub\randomSum\randomSum\randomSum\obj\Debug\randomSum.pdb
